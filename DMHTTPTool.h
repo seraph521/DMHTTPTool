@@ -1,9 +1,8 @@
 //
 //  DMHTTPTool.h
-//  GapDay
 //
 //  Created by Seraphic on 16/9/19.
-//  Copyright © 2016年 eva. All rights reserved.
+//  Copyright © 2016年 . All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
